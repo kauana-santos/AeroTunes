@@ -1,0 +1,266 @@
+
+{
+  "home": {
+    "titulo": "Bem-vindo ao AeroTunes!",
+    "subtitulo": "Uma viagem musical pelos anos 2000.",
+    "introducao": "Prepare-se para voltar a uma época em que os MP3 players, os CDs gravados e as músicas baixadas da internet faziam parte do nosso dia a dia. O AeroTunes nasceu para reunir os grandes sucessos de uma década inesquecível e celebrar a música que continua presente em nossas memórias.",
+
+    "sobre": {
+      "titulo": "A música que marcou uma geração",
+      "descricao": "Os anos 2000 foram uma época de grandes transformações no mundo da música. O pop dominava as rádios, o rock conquistava novos públicos, o hip-hop ganhava ainda mais espaço e a música eletrônica começava a fazer parte da cultura popular. Foi uma década de artistas marcantes, videoclipes inesquecíveis e refrões que todo mundo sabia cantar.",
+      "complemento": "Com a popularização da internet e dos tocadores digitais, ouvir música se tornou uma experiência cada vez mais pessoal. Criar pastas com suas canções favoritas, compartilhar arquivos e montar coletâneas eram hábitos que faziam parte da rotina de muitos apaixonados por música."
+    },
+
+    "proposta": {
+      "titulo": "Mais do que ouvir, é recordar",
+      "descricao": "O AeroTunes é um espaço dedicado a reunir músicas e álbuns que fizeram história nos anos 2000. Nossa proposta é resgatar sucessos que marcaram diferentes momentos, apresentar artistas memoráveis e proporcionar uma experiência de descoberta e nostalgia.",
+      "complemento": "Seja para relembrar aquela música que tocava em todos os lugares ou conhecer os grandes hits de uma década que você não acompanhou, aqui sempre haverá algo especial esperando por você."
+    },
+
+    "explorar": {
+      "titulo": "Explore nosso universo musical",
+      "descricao": "Navegue por uma biblioteca repleta de sucessos, descubra álbuns que definiram gerações e encontre suas músicas favoritas. Cada seção do AeroTunes foi pensada para tornar essa viagem musical simples, divertida e cheia de lembranças.",
+      "secoes": [
+        {
+          "titulo": "Biblioteca musical",
+          "descricao": "Uma seleção de músicas icônicas dos anos 2000, reunindo diferentes artistas, estilos e sucessos que conquistaram o público."
+        },
+        {
+          "titulo": "Álbuns inesquecíveis",
+          "descricao": "Conheça álbuns que marcaram a década, descobrir suas capas, artistas e as músicas que fazem parte de cada lançamento."
+        },
+        {
+          "titulo": "Seus favoritos",
+          "descricao": "Guarde suas músicas e seus álbuns preferidos em um só lugar e crie uma coleção com aquilo que mais combina com você."
+        }
+      ]
+    },
+
+    "generos": {
+      "titulo": "Uma década de muitos estilos",
+      "descricao": "Do pop contagiante ao rock alternativo, os anos 2000 foram marcados pela diversidade musical. Diferentes gêneros conquistaram espaço nas rádios, na televisão e nos tocadores de música.",
+      "estilos": [
+        "Pop",
+        "Rock",
+        "Hip-hop",
+        "R&B",
+        "Eletrônica",
+        "Pop punk"
+      ]
+    },
+
+    "mensagemFinal": {
+      "titulo": "Toda música conta uma história.",
+      "descricao": "Algumas canções nos lembram pessoas, outras nos transportam para momentos especiais. No AeroTunes, queremos celebrar todas essas histórias e mostrar que uma boa música nunca sai de moda.",
+      "chamada": "Coloque seus fones, aperte o play e aproveite a viagem!"
+    }
+  },
+  "musicas": [
+    {
+      "id": 1,
+      "nome": "Toxic",
+      "ano": 2003,
+      "genero": "Pop",
+      "cantor": "Britney Spears",
+      "capa": "assets/images/musicas/toxic.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Complicated",
+      "ano": 2002,
+      "genero": "Pop Rock",
+      "cantor": "Avril Lavigne",
+      "capa": "assets/images/musicas/complicated.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "In the End",
+      "ano": 2000,
+      "genero": "Nu Metal",
+      "cantor": "Linkin Park",
+      "capa": "assets/images/musicas/in-the-end.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Crazy in Love",
+      "ano": 2003,
+      "genero": "R&B / Pop",
+      "cantor": "Beyoncé feat. Jay-Z",
+      "capa": "assets/images/musicas/crazy-in-love.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Hey Ya!",
+      "ano": 2003,
+      "genero": "Pop / Funk",
+      "cantor": "Outkast",
+      "capa": "assets/images/musicas/hey-ya.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Numb",
+      "ano": 2003,
+      "genero": "Alternative Rock",
+      "cantor": "Linkin Park",
+      "capa": "assets/images/musicas/numb.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "Hips Don't Lie",
+      "ano": 2006,
+      "genero": "Latin Pop",
+      "cantor": "Shakira feat. Wyclef Jean",
+      "capa": "assets/images/musicas/hips-dont-lie.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Umbrella",
+      "ano": 2007,
+      "genero": "Pop / R&B",
+      "cantor": "Rihanna feat. Jay-Z",
+      "capa": "assets/images/musicas/umbrella.jpg"
+    },
+    {
+      "id": 9,
+      "nome": "Poker Face",
+      "ano": 2008,
+      "genero": "Dance Pop",
+      "cantor": "Lady Gaga",
+      "capa": "assets/images/musicas/poker-face.jpg"
+    },
+    {
+      "id": 10,
+      "nome": "Viva La Vida",
+      "ano": 2008,
+      "genero": "Alternative Rock",
+      "cantor": "Coldplay",
+      "capa": "assets/images/musicas/viva-la-vida.jpg"
+    }
+  ],
+ "albuns": [
+    {
+        "id": 1,
+        "nome": "The Fame",
+        "artista": "Lady Gaga",
+        "ano": 2008,
+        "genero": "Dance Pop",
+        "capa": "",
+        "descricao": "Álbum de estreia de Lady Gaga, com sucessos como Just Dance e Poker Face."
+    },
+    {
+        "id": 2,
+        "nome": "Hybrid Theory",
+        "artista": "Linkin Park",
+        "ano": 2000,
+        "genero": "Nu Metal / Rock",
+        "capa": "",
+        "descricao": "Um dos álbuns de rock mais marcantes dos anos 2000, com músicas como In the End e Crawling."
+    },
+    {
+        "id": 3,
+        "nome": "Let Go",
+        "artista": "Avril Lavigne",
+        "ano": 2002,
+        "genero": "Pop Punk",
+        "capa": "",
+        "descricao": "Álbum que apresentou Avril Lavigne ao mundo, trazendo sucessos como Complicated e Sk8er Boi."
+    },
+    {
+        "id": 4,
+        "nome": "Confessions on a Dance Floor",
+        "artista": "Madonna",
+        "ano": 2005,
+        "genero": "Dance Pop",
+        "capa": "",
+        "descricao": "Um álbum marcado pela música eletrônica e por grandes sucessos como Hung Up."
+    },
+    {
+        "id": 5,
+        "nome": "FutureSex/LoveSounds",
+        "artista": "Justin Timberlake",
+        "ano": 2006,
+        "genero": "Pop / R&B",
+        "capa": "",
+        "descricao": "Um dos grandes álbuns pop e R&B da década, com sucessos como SexyBack e My Love."
+    },
+    {
+        "id": 6,
+        "nome": "The Emancipation of Mimi",
+        "artista": "Mariah Carey",
+        "ano": 2005,
+        "genero": "R&B / Pop",
+        "capa": "",
+        "descricao": "Álbum de grande sucesso comercial, conhecido por músicas como We Belong Together e Shake It Off."
+    },
+    {
+        "id": 7,
+        "nome": "Back to Black",
+        "artista": "Amy Winehouse",
+        "ano": 2006,
+        "genero": "Soul / R&B",
+        "capa": "",
+        "descricao": "Um álbum aclamado que mistura soul, jazz e R&B, incluindo Rehab e Back to Black."
+    },
+    {
+        "id": 8,
+        "nome": "In Rainbows",
+        "artista": "Radiohead",
+        "ano": 2007,
+        "genero": "Alternative Rock",
+        "capa": "",
+        "descricao": "Um álbum experimental e marcante, com faixas como Nude e Jigsaw Falling into Place."
+    }
+  ],
+  "favoritos": [
+    {
+        "id": 1,
+        "tipo": "musica",
+        "referenciaId": 1,
+        "nome": "Toxic",
+        "artista": "Britney Spears",
+        "ano": 2003,
+        "genero": "Pop",
+        "capa": ""
+    },
+    {
+        "id": 2,
+        "tipo": "musica",
+        "referenciaId": 3,
+        "nome": "In the End",
+        "artista": "Linkin Park",
+        "ano": 2000,
+        "genero": "Nu Metal",
+        "capa": ""
+    },
+    {
+        "id": 3,
+        "tipo": "musica",
+        "referenciaId": 8,
+        "nome": "Umbrella",
+        "artista": "Rihanna feat. Jay-Z",
+        "ano": 2007,
+        "genero": "Pop / R&B",
+        "capa": ""
+    },
+    {
+        "id": 4,
+        "tipo": "album",
+        "referenciaId": 1,
+        "nome": "The Fame",
+        "artista": "Lady Gaga",
+        "ano": 2008,
+        "genero": "Dance Pop",
+        "capa": ""
+    },
+    {
+        "id": 5,
+        "tipo": "album",
+        "referenciaId": 2,
+        "nome": "Hybrid Theory",
+        "artista": "Linkin Park",
+        "ano": 2000,
+        "genero": "Nu Metal / Rock",
+        "capa": ""
+    }
+  ]
+}

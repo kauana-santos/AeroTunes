@@ -1,0 +1,21 @@
+{
+  "name": "aerotunes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./sass:./css",
+    "server": "json-server db.json --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "sass": "^1.107.1"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}
