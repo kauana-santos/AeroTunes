@@ -144,7 +144,7 @@
         "artista": "Lady Gaga",
         "ano": 2008,
         "genero": "Dance Pop",
-        "capa": "",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlsmWRKrKW06u2fQhYGwkTvi_AcTapnKtOvt_fAyQCxQ&s=10",
         "descricao": "Álbum de estreia de Lady Gaga, com sucessos como Just Dance e Poker Face."
     },
     {
@@ -153,7 +153,7 @@
         "artista": "Linkin Park",
         "ano": 2000,
         "genero": "Nu Metal / Rock",
-        "capa": "",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpQtnZrXlJe-Yyjz5nA2VDpU3u30iaFifu_bnuwobog&s=10",
         "descricao": "Um dos álbuns de rock mais marcantes dos anos 2000, com músicas como In the End e Crawling."
     },
     {
@@ -162,7 +162,7 @@
         "artista": "Avril Lavigne",
         "ano": 2002,
         "genero": "Pop Punk",
-        "capa": "",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/c/cd/Capa_de_Let_Go_%282002%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
         "descricao": "Álbum que apresentou Avril Lavigne ao mundo, trazendo sucessos como Complicated e Sk8er Boi."
     },
     {
@@ -171,7 +171,7 @@
         "artista": "Madonna",
         "ano": 2005,
         "genero": "Dance Pop",
-        "capa": "",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/a/a8/Confessions_on_a_Dance_Floor_%282005%29_por_Madonna.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
         "descricao": "Um álbum marcado pela música eletrônica e por grandes sucessos como Hung Up."
     },
     {
@@ -180,7 +180,7 @@
         "artista": "Justin Timberlake",
         "ano": 2006,
         "genero": "Pop / R&B",
-        "capa": "",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/9/95/Futuresex.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
         "descricao": "Um dos grandes álbuns pop e R&B da década, com sucessos como SexyBack e My Love."
     },
     {
@@ -189,7 +189,7 @@
         "artista": "Mariah Carey",
         "ano": 2005,
         "genero": "R&B / Pop",
-        "capa": "",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/8/88/Mariah_Carey_-_The_Emancipation_of_Mimi.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
         "descricao": "Álbum de grande sucesso comercial, conhecido por músicas como We Belong Together e Shake It Off."
     },
     {
@@ -198,7 +198,7 @@
         "artista": "Amy Winehouse",
         "ano": 2006,
         "genero": "Soul / R&B",
-        "capa": "",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/9/93/Capa_de_Back_to_Black.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
         "descricao": "Um álbum aclamado que mistura soul, jazz e R&B, incluindo Rehab e Back to Black."
     },
     {
@@ -207,7 +207,7 @@
         "artista": "Radiohead",
         "ano": 2007,
         "genero": "Alternative Rock",
-        "capa": "",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/9/96/Radiohead_-_In_Rainbows.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
         "descricao": "Um álbum experimental e marcante, com faixas como Nude e Jigsaw Falling into Place."
     }
   ],
@@ -220,17 +220,16 @@
         "artista": "Britney Spears",
         "ano": 2003,
         "genero": "Pop",
-        "capa": ""
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/e/ec/BS_Toxic.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original"
     },
     {
         "id": 2,
         "tipo": "musica",
-        "referenciaId": 3,
-        "nome": "In the End",
-        "artista": "Linkin Park",
-        "ano": 2000,
-        "genero": "Nu Metal",
-        "capa": ""
+        "nome": "in the club",
+        "artista": "50 cent",
+        "ano": 2003,
+        "genero": " Gangsta rap, East Coast hip hop",
+        "capa": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/12/50_Cent_-_In_Da_Club_-_CD_cover.jpg/250px-50_Cent_-_In_Da_Club_-_CD_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "id": 3,
@@ -240,17 +239,16 @@
         "artista": "Rihanna feat. Jay-Z",
         "ano": 2007,
         "genero": "Pop / R&B",
-        "capa": ""
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/6/6d/Rihanna_Umbrella.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original"
     },
     {
         "id": 4,
         "tipo": "album",
-        "referenciaId": 1,
-        "nome": "The Fame",
-        "artista": "Lady Gaga",
-        "ano": 2008,
-        "genero": "Dance Pop",
-        "capa": ""
+        "nome": "Many Men",
+        "artista": "50 cent",
+        "ano": 2003,
+        "genero": " Gangsta rap, East Coast hip hop",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOB35skEVUQE2Q3yv-er_atuAwUFtGxW1h7_E_QcvPA&s=10"
     },
     {
         "id": 5,
@@ -260,7 +258,7 @@
         "artista": "Linkin Park",
         "ano": 2000,
         "genero": "Nu Metal / Rock",
-        "capa": ""
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8C-BCoEi9GTcXIy_3hDUxW24yctX8baVxY121DrSU-w&s=10"
     }
   ]
 }

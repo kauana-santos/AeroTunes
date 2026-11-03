@@ -69,6 +69,9 @@ body .header {
   padding: 5px;
   margin-bottom: 8px;
 }
+.main-content .page-header h1 {
+  text-align: center;
+}
 .main-content .page-banner {
   height: 150px;
   background: red;
