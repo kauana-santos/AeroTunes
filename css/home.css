@@ -1,0 +1,16 @@
+.content-section, .final-message {
+  padding: 10px;
+}
+.content-section, .final-message {
+  margin-bottom: 5px;
+}
+.content-section, .final-message {
+  line-height: 0.6cm;
+}
+.content-section .genre-list, .final-message .genre-list {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+}
+
+/*# sourceMappingURL=home.css.map */
