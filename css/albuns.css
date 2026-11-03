@@ -1,0 +1,18 @@
+.albums-grid {
+  padding: 15px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}
+.albums-grid .album-card {
+  background-color: #FFFFFF;
+  border: 1px solid #B9E5F2;
+  border-radius: 5px;
+  padding: 3px;
+  margin: 0 auto;
+}
+.albums-grid .album-card img {
+  height: 190px;
+}
+
+/*# sourceMappingURL=albuns.css.map */

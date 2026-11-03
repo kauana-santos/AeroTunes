@@ -1,0 +1,16 @@
+@use 'variaveis' as *
+@use 'mixins' as *
+
+
+.albums-grid
+    padding: 15px
+    +grid-secundario
+
+    .album-card
+        background-color: $fundo-card
+        border: 1px solid $borda-card
+        border-radius: 5px
+        padding: 3px
+        margin: 0 auto
+        img
+            height: 190px
