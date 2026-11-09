@@ -45,6 +45,10 @@ body .header {
 .layout .sidebar {
   background: rgba(239, 247, 253, 0.619);
   border-radius: 5px;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .layout .sidebar .navigation {
   display: flex;
@@ -56,6 +60,17 @@ body .header {
   text-decoration: none;
   background: rgba(159, 159, 159, 0.4509803922);
   margin: 3px 0;
+}
+.layout .sidebar .mp3-player {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: auto;
+}
+.layout .sidebar .mp3-player img {
+  height: 295px;
+  object-fit: contain;
 }
 
 .main-content {
@@ -73,9 +88,15 @@ body .header {
   text-align: center;
 }
 .main-content .page-banner {
-  height: 150px;
-  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-bottom: 8px;
+}
+.main-content .page-banner img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 .main-content .page-content {
   background: #EAF9FC;

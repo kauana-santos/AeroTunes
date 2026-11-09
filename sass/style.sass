@@ -1,6 +1,6 @@
 @use 'variaveis' as *
 @use 'mixins' as *
-    
+
 *
     margin: 0
     padding: 0
@@ -35,7 +35,6 @@ body
     border-radius: 40px 40px 0 0
     margin: 60px auto 0
 
-
 .layout
     +grid-principal
     padding: 0 10px
@@ -44,8 +43,11 @@ body
     .sidebar
         background: $fundo-sidebar
         border-radius: 5px
-        
-        
+        min-height: 90vh
+        display: flex
+        flex-direction: column
+        justify-content: space-between
+
         .navigation
             +display-flex
             padding: 20px 10px
@@ -56,23 +58,44 @@ body
                 background: #9f9f9f73
                 margin: 3px 0
 
+        // Imagem do MP3
+        .mp3-player
+            display: flex
+            justify-content: center
+            align-items: center
+            padding: 10px
+            margin-top: auto
+
+            img
+                
+                
+                height: 295px
+                object-fit: contain
+
 .main-content
     background: #ffffff28
     border-radius: 5px
     min-height: 90vh
     padding: 10px
-    
 
     .page-header
         background: $fundo-descricao
         padding: 5px
         margin-bottom: 8px
+
         h1
             text-align: center
+
     .page-banner
-        height: 150px
-        background: red
+        display: flex
+        justify-content: center
+        align-items: center
         margin-bottom: 8px
+
+        img
+            max-width: 100%
+            height: auto
+            display: block
 
     .page-content
         background: $fundo-conteudo
